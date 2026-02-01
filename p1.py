@@ -1,1 +1,1 @@
-print("awakened-core REINSERT")
+print("awakened-core UPDATE2")
