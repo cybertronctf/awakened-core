@@ -1,1 +1,1 @@
-print("awakened-core UPDATE")
+print("awakened-core FIX")
