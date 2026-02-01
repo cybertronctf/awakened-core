@@ -1,1 +1,1 @@
-print("awakened-core FINAL")
+print("awakened-core FINAL FIX")
